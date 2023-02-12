@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Jameel Noori Nastaleeq';
+    src: url('../fonts/JameelNooriNastaleeq.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+ }
+body {
+    background-color: #f9f9f9;
+    font: normal 1em / 1.5  sans-serif;
+ }
+
+h1 {
+    font-family: 'Jameel Noori Nastaleeq', sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
